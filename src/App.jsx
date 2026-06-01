@@ -245,9 +245,9 @@ export default function App() {
             <div style={styles.profileCard}>
               <div style={styles.profileTop}>
                 {/* Avatar */}
-                <div style={styles.avatar}>
+                  <div style={styles.avatar}>
                   {/* Troque o conteúdo abaixo por uma <img> quando tiver foto */}
-                  <img src="/foto.jpg" alt="Matheus" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                  <img src="/meu-portfolio/foto.jpg" alt="Matheus" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
                 </div>
 
                 <div style={styles.profileInfo}>
