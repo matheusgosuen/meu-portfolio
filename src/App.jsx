@@ -28,7 +28,7 @@ const PROJECTS = [
     icon: "📊", color: "#3b82f6", tag: "Python / API",
     title: { pt: "Central F1 Analytics", en: "F1 Analytics Hub" },
     desc: { pt: "Hub de dashboards interativos da F1. Telemetria, qualificação e histórico.", en: "Interactive F1 dashboards hub. Telemetry, qualifying, and championship history." },
-    link: "#",
+    link: "https://dashf1-vbfbft5y8ujrzwsz7lcwkb.streamlit.app/",
   },
   {
     id: 2, category: "dashboard",
